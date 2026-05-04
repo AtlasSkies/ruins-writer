@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <polygon vector-effect="non-scaling-stroke" points="8,56 56,56 44,8 20,8"/>
+  <polygon vector-effect="non-scaling-stroke" points="16,56 48,56 40,18 24,18"/>
+  <line vector-effect="non-scaling-stroke" x1="8" y1="56" x2="16" y2="56"/>
+  <line vector-effect="non-scaling-stroke" x1="56" y1="56" x2="48" y2="56"/>
+  <line vector-effect="non-scaling-stroke" x1="32" y1="8" x2="32" y2="56"/>
+
+</svg>
