@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <ellipse vector-effect="non-scaling-stroke" cx="32" cy="24" rx="20" ry="8"/>
+  <line vector-effect="non-scaling-stroke" x1="14" y1="28" x2="10" y2="52"/>
+  <line vector-effect="non-scaling-stroke" x1="50" y1="28" x2="54" y2="52"/>
+  <path vector-effect="non-scaling-stroke" d="M10 52 Q32 60 54 52"/>
+  <line vector-effect="non-scaling-stroke" x1="22" y1="24" x2="22" y2="46"/>
+  <line vector-effect="non-scaling-stroke" x1="42" y1="24" x2="42" y2="46"/>
+
+</svg>
