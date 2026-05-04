@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <path vector-effect="non-scaling-stroke" d="M10 10 Q20 20 18 32 Q16 44 26 50 Q36 56 40 48 Q44 40 36 34 Q28 28 30 20 Q32 12 44 8"/>
+  <circle vector-effect="non-scaling-stroke" cx="10" cy="10" r="3" fill="currentColor" stroke="none"/>
+  <circle vector-effect="non-scaling-stroke" cx="44" cy="8" r="3" fill="currentColor" stroke="none"/>
+  <line vector-effect="non-scaling-stroke" x1="44" y1="8" x2="56" y2="12"/>
+
+</svg>
