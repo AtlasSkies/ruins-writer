@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <path vector-effect="non-scaling-stroke" d="M8 20 Q8 8 20 8 L44 8 Q56 8 56 20 L56 44 Q56 56 44 56 L20 56 Q8 56 8 44 Z"/>
+  <path vector-effect="non-scaling-stroke" d="M16 24 Q16 16 24 16 L40 16 Q48 16 48 24 L48 40 Q48 48 40 48 L24 48 Q16 48 16 40 Z"/>
+  <path vector-effect="non-scaling-stroke" d="M24 30 Q24 24 30 24 L34 24 Q40 24 40 30 L40 34 Q40 40 34 40 L30 40 Q24 40 24 34 Z"/>
+
+</svg>
