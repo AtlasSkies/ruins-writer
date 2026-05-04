@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <rect vector-effect="non-scaling-stroke" x="8" y="16" width="32" height="32" rx="2"/>
+  <rect vector-effect="non-scaling-stroke" x="20" y="8" width="32" height="32" rx="2"/>
+  <line vector-effect="non-scaling-stroke" x1="26" y1="24" x2="34" y2="24"/>
+  <line vector-effect="non-scaling-stroke" x1="30" y1="20" x2="30" y2="28"/>
+
+</svg>
