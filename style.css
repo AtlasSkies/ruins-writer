@@ -714,3 +714,58 @@ html, body {
   color: var(--ink);
   filter: invert(0) sepia(30%) saturate(60%) brightness(0.6) drop-shadow(0 1px 3px rgba(0,0,0,0.5));
 }
+
+/* ── Category Sigil (featured header in panel) ── */
+.category-sigil-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 10px 14px;
+  background: rgba(155, 125, 42, 0.08);
+  border: 1px solid rgba(155, 125, 42, 0.35);
+  border-radius: 4px;
+  margin-bottom: 6px;
+  position: relative;
+}
+
+.category-sigil-img {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  filter: invert(0) sepia(30%) saturate(60%) brightness(0.6) drop-shadow(0 2px 6px rgba(0,0,0,0.4));
+  transition: filter 0.2s, transform 0.2s;
+}
+
+.category-sigil-wrap:hover .category-sigil-img {
+  filter: invert(0) sepia(40%) saturate(80%) brightness(0.7) drop-shadow(0 0 10px rgba(155,125,42,0.4));
+  transform: scale(1.05);
+}
+
+.category-sigil-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  color: var(--accent-gold);
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.category-sigil-btn {
+  background: rgba(155, 125, 42, 0.15);
+  border: 1px solid rgba(155, 125, 42, 0.4);
+  border-radius: 3px;
+  color: var(--parchment-dark);
+  font-family: 'Cinzel', serif;
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  padding: 5px 12px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.category-sigil-btn:hover {
+  background: rgba(155, 125, 42, 0.3);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}

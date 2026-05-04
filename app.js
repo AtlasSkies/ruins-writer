@@ -102,6 +102,33 @@
     const cat = SYMBOL_CATEGORIES[category];
     if (!cat) return;
 
+    // Category sigil (featured header)
+    if (cat.categorySigil) {
+      const sigilWrap = document.createElement("div");
+      sigilWrap.className = "category-sigil-wrap";
+
+      const sigilImg = document.createElement("img");
+      sigilImg.src = cat.categorySigil.src;
+      sigilImg.alt = cat.categorySigil.label;
+      sigilImg.className = "category-sigil-img";
+      sigilImg.onerror = function() { sigilWrap.style.display = "none"; };
+
+      const sigilLabel = document.createElement("div");
+      sigilLabel.className = "category-sigil-label";
+      sigilLabel.textContent = cat.categorySigil.label;
+
+      const sigilBtn = document.createElement("button");
+      sigilBtn.className = "category-sigil-btn";
+      sigilBtn.title = "Place " + cat.categorySigil.label + " on board";
+      sigilBtn.textContent = "+ Place Sigil";
+      sigilBtn.addEventListener("click", () => addRuneToBoard(cat.categorySigil));
+
+      sigilWrap.appendChild(sigilImg);
+      sigilWrap.appendChild(sigilLabel);
+      sigilWrap.appendChild(sigilBtn);
+      symbolGrid.appendChild(sigilWrap);
+    }
+
     // Subcategories section (magic types)
     if (cat.subcategories && cat.subcategories.length > 0) {
       const subHeader = document.createElement("div");

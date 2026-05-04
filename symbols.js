@@ -8,6 +8,7 @@
 const SYMBOL_CATEGORIES = {
   knowledge: {
     label: "Knowledge",
+    categorySigil: { id:"kn_cat", label:"Sigil of Knowledge", src:"assets/symbols/knowledge/_category_knowledge.svg" },
     subcategories: [
       { id:"kn_sub_div",label:"Divination",src:"assets/symbols/knowledge/subcategories/divination.svg"},
       { id:"kn_sub_enc",label:"Enchantment",src:"assets/symbols/knowledge/subcategories/enchantment.svg"},
@@ -52,6 +53,7 @@ const SYMBOL_CATEGORIES = {
   },
   life: {
     label: "Life",
+    categorySigil: { id:"lf_cat", label:"Sigil of Life", src:"assets/symbols/life/_category_life.svg" },
     subcategories: [
       { id:"lf_sub_nec",label:"Necromancy",src:"assets/symbols/life/subcategories/necromancy.svg"},
       { id:"lf_sub_rev",label:"Revival",src:"assets/symbols/life/subcategories/revival.svg"},
@@ -96,6 +98,7 @@ const SYMBOL_CATEGORIES = {
   },
   light: {
     label: "Light",
+    categorySigil: { id:"lt_cat", label:"Sigil of Light", src:"assets/symbols/light/_category_light.svg" },
     subcategories: [
       { id:"lt_sub_pyr",label:"Pyromancy",src:"assets/symbols/light/subcategories/pyromancy.svg"},
       { id:"lt_sub_sol",label:"Solar Calling",src:"assets/symbols/light/subcategories/solar_calling.svg"},
@@ -140,6 +143,7 @@ const SYMBOL_CATEGORIES = {
   },
   memory: {
     label: "Memory",
+    categorySigil: { id:"me_cat", label:"Sigil of Memory", src:"assets/symbols/memory/_category_memory.svg" },
     subcategories: [
       { id:"me_sub_dw",label:"Dreamwalking",src:"assets/symbols/memory/subcategories/dreamwalking.svg"},
       { id:"me_sub_mr",label:"Mind Reading",src:"assets/symbols/memory/subcategories/mind_reading.svg"},
@@ -184,6 +188,7 @@ const SYMBOL_CATEGORIES = {
   },
   sound: {
     label: "Sound",
+    categorySigil: { id:"so_cat", label:"Sigil of Sound", src:"assets/symbols/sound/_category_sound.svg" },
     subcategories: [
       { id:"so_sub_son",label:"Sonar",src:"assets/symbols/sound/subcategories/sonar.svg"},
       { id:"so_sub_sir",label:"Siren Song",src:"assets/symbols/sound/subcategories/siren_song.svg"},
@@ -228,6 +233,7 @@ const SYMBOL_CATEGORIES = {
   },
   space: {
     label: "Space",
+    categorySigil: { id:"sp_cat", label:"Sigil of Space", src:"assets/symbols/space/_category_space.svg" },
     subcategories: [
       { id:"sp_sub_tel",label:"Teleportation",src:"assets/symbols/space/subcategories/teleportation.svg"},
       { id:"sp_sub_pr",label:"Pocket Realm",src:"assets/symbols/space/subcategories/pocket_realm.svg"},
@@ -272,6 +278,7 @@ const SYMBOL_CATEGORIES = {
   },
   time: {
     label: "Time",
+    categorySigil: { id:"ti_cat", label:"Sigil of Time", src:"assets/symbols/time/_category_time.svg" },
     subcategories: [
       { id:"ti_sub_ts",label:"Time Stop",src:"assets/symbols/time/subcategories/time_stop.svg"},
       { id:"ti_sub_cs",label:"Chronoshifting",src:"assets/symbols/time/subcategories/chronoshifting.svg"},
