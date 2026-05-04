@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-
-  <polygon points="8,6 56,6 56,14 32,32 56,50 56,58 8,58 8,50 32,32 8,14"/>
-  <line x1="8" y1="6" x2="56" y2="6"/>
-  <line x1="8" y1="58" x2="56" y2="58"/>
-  <path d="M22 18 Q32 26 42 18" fill="none"/>
-  <path d="M22 46 Q32 38 42 46" fill="none"/>
-
-</svg>
