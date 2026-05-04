@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-
-  <line vector-effect="non-scaling-stroke" x1="8" y1="32" x2="56" y2="32"/>
-  <path vector-effect="non-scaling-stroke" d="M8 32 Q14 8 20 32 Q26 56 32 32 Q38 8 44 32 Q50 56 56 32"/>
-
-</svg>

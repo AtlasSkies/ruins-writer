@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-
-  <ellipse vector-effect="non-scaling-stroke" cx="32" cy="32" rx="26" ry="14"/>
-  <circle vector-effect="non-scaling-stroke" cx="32" cy="32" r="10"/>
-  <circle vector-effect="non-scaling-stroke" cx="32" cy="32" r="5" fill="currentColor" stroke="none"/>
-  <line vector-effect="non-scaling-stroke" x1="6" y1="32" x2="12" y2="32"/>
-  <line vector-effect="non-scaling-stroke" x1="52" y1="32" x2="58" y2="32"/>
-
-</svg>
