@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-
-  <line vector-effect="non-scaling-stroke" x1="32" y1="54" x2="32" y2="10"/>
-  <polyline vector-effect="non-scaling-stroke" points="18,24 32,10 46,24"/>
-
-</svg>
