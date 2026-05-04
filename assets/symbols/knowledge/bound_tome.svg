@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <rect vector-effect="non-scaling-stroke" x="12" y="8" width="40" height="48" rx="2"/>
+  <line vector-effect="non-scaling-stroke" x1="20" y1="8" x2="20" y2="56"/>
+  <line vector-effect="non-scaling-stroke" x1="26" y1="18" x2="46" y2="18"/>
+  <line vector-effect="non-scaling-stroke" x1="26" y1="26" x2="46" y2="26"/>
+  <line vector-effect="non-scaling-stroke" x1="26" y1="34" x2="46" y2="34"/>
+  <circle vector-effect="non-scaling-stroke" cx="36" cy="46" r="4"/>
+
+</svg>
