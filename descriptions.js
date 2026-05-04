@@ -78,4 +78,5 @@ const SYMBOL_DESCRIPTIONS = {
   "tr_invert":    "Reverses the effect of the preceding ruin.",
   "tr_contain":   "Limits the effect of connected ruins to a defined boundary.",
   "tr_extend":    "Broadcasts a ruin's effect outward across a larger area.",
+  "tr_diminish":  "Reduces the magnitude of the preceding ruin's output.",
 };
