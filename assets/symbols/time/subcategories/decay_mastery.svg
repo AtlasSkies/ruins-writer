@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line vector-effect="non-scaling-stroke" x1="8" y1="8" x2="56" y2="56"/><circle vector-effect="non-scaling-stroke" cx="16" cy="16" r="7"/><circle vector-effect="non-scaling-stroke" cx="32" cy="32" r="6"/><circle vector-effect="non-scaling-stroke" cx="48" cy="48" r="4"/><circle vector-effect="non-scaling-stroke" cx="48" cy="48" r="2" fill="currentColor" stroke="none"/>
+</svg>

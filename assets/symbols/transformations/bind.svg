@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <circle vector-effect="non-scaling-stroke" cx="22" cy="32" r="8"/>
+  <circle vector-effect="non-scaling-stroke" cx="42" cy="32" r="8"/>
+  <path vector-effect="non-scaling-stroke" d="M22 24 Q32 14 42 24"/>
+  <path vector-effect="non-scaling-stroke" d="M22 40 Q32 50 42 40"/>
+  <line vector-effect="non-scaling-stroke" x1="22" y1="32" x2="42" y2="32"/>
+
+</svg>
