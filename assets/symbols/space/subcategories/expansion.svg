@@ -1,12 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-  <path d="M32 32 L8 8"/>
-  <path d="M32 32 L56 8"/>
-  <path d="M32 32 L8 56"/>
-  <path d="M32 32 L56 56"/>
-  <polyline points="8,18 8,8 18,8"/>
-  <polyline points="46,8 56,8 56,18"/>
-  <polyline points="8,46 8,56 18,56"/>
-  <polyline points="46,56 56,56 56,46"/>
+  <line x1="32" y1="32" x2="8" y2="8"/>
+  <line x1="32" y1="32" x2="56" y2="8"/>
+  <line x1="32" y1="32" x2="8" y2="56"/>
+  <line x1="32" y1="32" x2="56" y2="56"/>
+  <line x1="8" y1="8" x2="20" y2="8"/>
+  <line x1="8" y1="8" x2="8" y2="20"/>
+  <line x1="56" y1="8" x2="44" y2="8"/>
+  <line x1="56" y1="8" x2="56" y2="20"/>
+  <line x1="8" y1="56" x2="20" y2="56"/>
+  <line x1="8" y1="56" x2="8" y2="44"/>
+  <line x1="56" y1="56" x2="44" y2="56"/>
+  <line x1="56" y1="56" x2="56" y2="44"/>
 
 </svg>

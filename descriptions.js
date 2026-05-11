@@ -72,7 +72,6 @@ const SYMBOL_DESCRIPTIONS = {
 
   "tr_channel":   "Connects two ruins so their effects flow into each other.",
   "tr_branch":    "Splits a single ruin's output into two parallel effects.",
-  "tr_counter":        "Tracks the number of times a loop has iterated, like i in a for loop — attach to a Loop to count cycles.",
   "tr_curved_channel": "A curved channel; connects two ruins along an arc rather than a straight line.",
   "tr_curved_branch":  "A curved branch; splits output into two paths along arcs rather than hard angles.",
   "tr_condition":      "An if/else gate — attach to a Branch so one path fires when the condition is true, the other when false.",

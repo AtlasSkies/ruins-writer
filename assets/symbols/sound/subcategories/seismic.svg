@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-  <line x1="4" y1="48" x2="60" y2="48"/>
-  <path d="M4 48 C12 36 20 48 28 36 C36 24 44 36 52 24 C56 18 60 24 60 30"/>
-  <line x1="16" y1="48" x2="12" y2="58"/>
-  <line x1="32" y1="48" x2="28" y2="58"/>
-  <line x1="48" y1="48" x2="44" y2="58"/>
+  <line x1="4" y1="44" x2="60" y2="44"/>
+  <path d="M4 44 C12 32 20 44 28 32 C36 20 44 32 52 20 C56 14 60 20 60 28"/>
+  <line x1="14" y1="44" x2="10" y2="56"/>
+  <line x1="32" y1="44" x2="28" y2="56"/>
+  <line x1="50" y1="44" x2="46" y2="56"/>
 
 </svg>
