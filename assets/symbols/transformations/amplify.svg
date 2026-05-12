@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-  <path d="M8 20 L8 44 L30 52 L30 12 Z"/>
-  <path d="M30 24 L56 14 L56 50 L30 40"/>
+  <path vector-effect="non-scaling-stroke" d="M8 20 L8 44 L30 52 L30 12 Z"/>
+  <path vector-effect="non-scaling-stroke" d="M30 24 L56 14 L56 50 L30 40"/>
 
 </svg>

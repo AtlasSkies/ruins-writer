@@ -1,3 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M8 36 C24 36 40 28 56 28"/>
+  <path vector-effect="non-scaling-stroke" d="M8 34 C24 34 40 30 56 30"/>
 </svg>

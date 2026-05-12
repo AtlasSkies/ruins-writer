@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-  <path d="M30 6 C32 20 28 28 30 42 C31 50 32 58 32 58"/>
-  <path d="M34 6 C36 20 32 28 34 42 C35 50 34 58 34 58"/>
-  <line x1="8" y1="18" x2="56" y2="18"/>
-  <line x1="8" y1="46" x2="56" y2="46"/>
+  <path vector-effect="non-scaling-stroke" d="M30 6 C32 20 28 28 30 42 C31 50 32 58 32 58"/>
+  <path vector-effect="non-scaling-stroke" d="M34 6 C36 20 32 28 34 42 C35 50 34 58 34 58"/>
+  <line vector-effect="non-scaling-stroke" x1="8" y1="18" x2="56" y2="18"/>
+  <line vector-effect="non-scaling-stroke" x1="8" y1="46" x2="56" y2="46"/>
 
 </svg>

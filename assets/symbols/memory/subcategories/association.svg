@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+
+  <circle vector-effect="non-scaling-stroke" cx="18" cy="22" r="8"/>
+  <circle vector-effect="non-scaling-stroke" cx="46" cy="42" r="8"/>
+  <line vector-effect="non-scaling-stroke" x1="24" y1="28" x2="40" y2="36"/>
+  <line vector-effect="non-scaling-stroke" x1="18" y1="14" x2="18" y2="8"/>
+  <line vector-effect="non-scaling-stroke" x1="46" y1="50" x2="46" y2="56"/>
+
+</svg>

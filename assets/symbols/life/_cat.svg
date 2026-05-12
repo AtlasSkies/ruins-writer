@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 
-  <path d="M8 32 C8 16 22 8 32 8 C42 8 56 16 56 32"/>
-  <path d="M8 32 C8 48 22 56 32 56 C42 56 56 48 56 32"/>
-  <line x1="32" y1="8" x2="32" y2="56"/>
-  <path d="M16 20 C22 28 42 28 48 20"/>
-  <path d="M16 44 C22 36 42 36 48 44"/>
+  <path vector-effect="non-scaling-stroke" d="M8 32 C8 16 22 8 32 8 C42 8 56 16 56 32"/>
+  <path vector-effect="non-scaling-stroke" d="M8 32 C8 48 22 56 32 56 C42 56 56 48 56 32"/>
+  <line vector-effect="non-scaling-stroke" x1="32" y1="8" x2="32" y2="56"/>
+  <path vector-effect="non-scaling-stroke" d="M16 20 C22 28 42 28 48 20"/>
+  <path vector-effect="non-scaling-stroke" d="M16 44 C22 36 42 36 48 44"/>
 
 </svg>
